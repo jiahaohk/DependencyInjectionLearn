@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "DependencyInjectionLearn"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-DependencyInjectionLearn-a9e97e0a-151d-42ee-8a75-9e23a495b284;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
